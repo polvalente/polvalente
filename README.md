@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Paulo Valente! 👋
 
-<!--
-**polvalente/polvalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a maintainer for the **Nx ecosystem** in **Elixir**, building high-performance numerical computing tools for everyone!
 
-Here are some ideas to get you started:
+## 💼 What I do
+- Working on **Nx**, an Elixir library for numerical computing with multi-dimensional arrays (tensors).
+- Enhancing the Elixir experience with **machine learning** and **GPU acceleration**.
+- Deploying Nx to embedded and mobile devices with **NxIREE**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Sponsorship Tiers Available
+
+Support my open-source work and help me continue maintaining and expanding the Nx ecosystem!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20me-%F0%9F%A7%A1-brightgreen)](https://github.com/sponsors/polvalente)
+
+---
+
+Feel free to reach out for one-off inquiries or check out the projects I'm working on!
